@@ -1,0 +1,13 @@
+/* TODO: Put your CSS code in here */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ededed;
+    margin: 0 auto;
+}
+
